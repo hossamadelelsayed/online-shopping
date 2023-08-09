@@ -5,7 +5,7 @@ describe("ProductService",() => {
     describe("Signin",() => {
         // which scenarios we are testing
         test("valiadte user inputs",() => {});
-        test("validate response",() => {});
+        test("validate response",() =>   expect(sum(1, 2)).toBe(4) );
     });
 
 });
