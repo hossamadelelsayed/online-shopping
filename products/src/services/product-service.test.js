@@ -1,5 +1,5 @@
 // which service it is  
-describe("ShoppingService",() => {
+describe("ProductService",() => {
 
     // sign in function test 
     describe("Signin",() => {
