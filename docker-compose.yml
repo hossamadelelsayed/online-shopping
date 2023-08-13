@@ -61,4 +61,4 @@ services:
       - shopping
       - customer
     ports:
-      - "9000:80"
+      - "80:80"
