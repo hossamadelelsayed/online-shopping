@@ -6,6 +6,7 @@ name: Deploy on QA
 on:
   push:
     branches: [ "main" ]
+  workflow_dispatch:
 
 jobs:
   deploy_on_qa:
